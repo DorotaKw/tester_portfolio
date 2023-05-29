@@ -7,6 +7,17 @@
 Bugs reports:
 * 1 hour exploratory testing of the olx mobile app
 https://docs.google.com/spreadsheets/d/1DPUcYbaA_dNlBNeMJQbk0hjs-giXMlhy/edit#gid=995063018
+* Scouts Panel App exploratory testing
+https://docs.google.com/spreadsheets/d/1IT2aBU44rao8Ia9cEZ0gVenTOoNxee8k/edit#gid=2090184146
+
+Test report: 
+* Test report Scout Panel App
+https://docs.google.com/document/d/1nPh68pan2lVCGNQpQ8jbn8VObHz_3TUD/edit
+
+Test cases:
+* Scouts Panel App
+https://docs.google.com/spreadsheets/d/1ehGpCszYKBP_KF3w_n6kETc3-xicySB-/edit#gid=1148385903
+https://docs.google.com/spreadsheets/d/14ZrRK0v81pzxsyByA4XNu96w-Waw1P-S/edit?rtpof=true
 
 Books:
 * Adam Roman, Lucjan Stapp: "Certyfikowany tester ISTQB. Poziom podstawowy"
