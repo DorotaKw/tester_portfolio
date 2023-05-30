@@ -12,6 +12,26 @@ Courses:
 * Testing Academy (Testuj.pl)
 * Zostań testerem manualnym (DareIT)
 
+Tech skills:
+* Python
+* Java (basics)
+* SQL
+* Manual testing
+* Devtools
+* HTML/CSS/JavaScript
+* PowerBi, DAX
+* GIT/GitHub
+
+Tools:
+* Pycharm
+* Visual Studio Code
+* Dbeaver
+* Microsoft SQL Server/MySQL/PostreSQL
+* Sharex
+* Trello/Jira
+* Microsoft POwer Bi
+* 
+
 Bugs reports:
 * 1 hour exploratory testing of the olx mobile app
 https://docs.google.com/spreadsheets/d/1DPUcYbaA_dNlBNeMJQbk0hjs-giXMlhy/edit#gid=995063018
