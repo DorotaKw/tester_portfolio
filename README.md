@@ -28,9 +28,11 @@ Tools:
 * Dbeaver
 * Microsoft SQL Server/MySQL/PostreSQL
 * Sharex
-* Trello/Jira
+* Jira
 * Microsoft POwer Bi
-* 
+* Trello
+* TestRail
+
 
 Bugs reports:
 * 1 hour exploratory testing of the olx mobile app
