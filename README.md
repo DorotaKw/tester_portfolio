@@ -4,6 +4,14 @@
 
 ![obraz](https://github.com/DorotaKw/tester_portfolio/assets/69016457/47dda7df-ff2f-4b43-ab42-d49dbf0699d3)
 
+Courses:
+* Python - Basics of of programming (Coders Lab)
+* Java from Scratch (Akademia Kodu)
+* Python from Scratch - 285 h (SDA)
+* Introduction to Power Bi - 100 h (Future Collars)
+* Testing Academy (Testuj.pl)
+* Zostań testerem manualnym (DareIT)
+
 Bugs reports:
 * 1 hour exploratory testing of the olx mobile app
 https://docs.google.com/spreadsheets/d/1DPUcYbaA_dNlBNeMJQbk0hjs-giXMlhy/edit#gid=995063018
